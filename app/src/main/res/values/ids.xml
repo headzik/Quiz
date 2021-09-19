@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radio_group_id" type="id"/>
+    <item name="next_button_id" type="id"/>
+    <item name="feedback_text_id" type="id"/>
+    <item name="clear_button_id" type="id"/>
+    <item name="score_textview_id" type="id"/>
+</resources>
